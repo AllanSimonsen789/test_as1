@@ -3,15 +3,25 @@
 ## Reflections
 ### 1.1	Shooting
 1	Man is wearing a bulletproof vest
+
 2	The bullet missed the target(the man)
+
 3	Something blocked the bullet
+
 4	The woman fired a blank.
+
 5	Gun was pointed in the wrong direction
+
 6	The man was so far away that the bullet did not reach him
+
 7	The magazine was empty
+
 8	The gun was not cocked properly
+
 9	The man was so overweight that his bellyfat stopped the bullet
+
 10	The man was hit in a nonvital body part
+
 ### 1.2	Alien visit
 1	Pick up toothbrush with right hand, grab it by the handle.
 2	Pick up toothpaste tube with left hand.
