@@ -57,7 +57,7 @@ Brobible.com
 15	Rinse your mouth and spit out any residue toothpaste
 
 ## 2	two katas
-The code for the two katas can be found in this repo
+The code for the two katas can be found in the peergrade 1 repo
 
 ## 3 My thoughts on TDD
 When using TDD there is a clear goal for the code you’re writing, to make the test green. Therefore, there is no doubt in your head what needs to be done. Also a good thing is the fact that you already have test cases that you can test your code against. No need to manually test your new code, and you also don’t need to go through the pain of writing test after you’re done with you new code. 
